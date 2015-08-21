@@ -9,7 +9,8 @@ class Show
       'destroys',
       'levels',
       'disembowels',
-      'defecates on'
+      'defecates on',
+      'drops a hot load on'
     ]
 
     topics = [
